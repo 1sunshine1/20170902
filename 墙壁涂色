@@ -28,4 +28,4 @@ long long paintWallCounts(int wallsize) {
     }
     }
     return ans;
-}
+
